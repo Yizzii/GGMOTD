@@ -1,0 +1,4 @@
+Welcome to Gorilla Gunners!
+This is the first beta
+so expect bugs
+multiplayer soon.
